@@ -1,4 +1,4 @@
-# huawei-musi
+# huawei-music
 
 ## 环境搭建
 
